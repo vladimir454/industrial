@@ -1,0 +1,31 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+.boton1{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #212566;
+    background-color: #ECD304;
+    border-radius: 5px;
+  }
+
+  .boto1:hover{
+  	text-decoration: none;
+    color: #1883ba;
+    background-color: #ffffff;
+  }
+
+  .p1{
+    text-align-last: center;
+    margin-top: 5;
+    padding: 2;
+    color:white;
+  }
+
+  div1{
+    align-content: center;
+  }
