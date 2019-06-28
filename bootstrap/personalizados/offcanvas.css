@@ -222,7 +222,7 @@ body {
 .jumbotron{
   background-image: url("/img/fonts/fondolargo.jpg") ;
   background-repeat: no-repeat;
-  
+  align-self: auto;
 }
 .jumbotron::before {
   content    : "";
